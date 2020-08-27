@@ -1,4 +1,4 @@
-# To-do-list React 
+# The-meme-maker 
 
 This is a simple meme generator build using the React library.
 
