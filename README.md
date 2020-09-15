@@ -8,6 +8,8 @@ This is a simple meme generator build using the React library.
 * On the text filed a text for the meme can be entered.
 * The font size of the text can be adjusted in the second field.
 
+### Proview available on Netlify [here](https://thememegenerator.netlify.app/).
+
   
 
 
